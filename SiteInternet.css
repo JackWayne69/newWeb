@@ -1,0 +1,46 @@
+body, html{
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background: url(image.png) no-repeat;
+    background-size: cover;
+}
+
+div{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+h1{
+    font-size: 40px;
+    color: rgb(240, 208, 127);
+}
+
+h2, #Appri{
+    font-size: 50px;
+    color: white;
+    text-decoration: underline white;
+}
+
+li{
+    font-size: 30px;
+    color: white;
+}
+
+footer{
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background: white;
+    text-align: center;
+}
+
+#lorem{
+    color: white;
+    font-size: larger;
+}
